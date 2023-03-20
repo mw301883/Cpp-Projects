@@ -1,0 +1,4 @@
+﻿  Data.cpp
+C:\Users\Michał\source\repos\fbc470ca-gr21-repo\Projekt\ProjektPK3\ProjektPK3\Data.cpp(34,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\source\repos\fbc470ca-gr21-repo\Projekt\ProjektPK3\ProjektPK3\Data.cpp(36,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  ProjektPK3.vcxproj -> C:\Users\Michał\source\repos\fbc470ca-gr21-repo\Projekt\ProjektPK3\Debug\ProjektPK3.exe

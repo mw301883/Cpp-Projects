@@ -1,3 +1,0 @@
-﻿  System.cpp
-C:\Projekty\FlappyBirdInSLD\FlappyBirdInSLD\System.cpp(522): warning C4715: "Game_Speed_Controller”: niewszystkie ścieżki kodu zwracają wartość
-  FlappyBirdInSLD.vcxproj -> C:\Projekty\FlappyBirdInSLD\Debug\FlappyBirdInSLD.exe
