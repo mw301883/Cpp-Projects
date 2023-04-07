@@ -1,0 +1,16 @@
+﻿  Background.cpp
+  Bird.cpp
+  Button.cpp
+  main.cpp
+  Menu.cpp
+  Selector.cpp
+  Sound.cpp
+  System.cpp
+  Texture.cpp
+  Pipe.cpp
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\FlappyBirdInSLD2 (C++)\FlappyBirdInSLD\System.cpp(522): warning C4715: "Game_Speed_Controller”: niewszystkie ścieżki kodu zwracają wartość
+  All 209 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  FlappyBirdInSLD.vcxproj -> C:\Users\Michał\OneDrive\Pulpit\Projects Repo\FlappyBirdInSLD2 (C++)\Release\FlappyBirdInSLD.exe
