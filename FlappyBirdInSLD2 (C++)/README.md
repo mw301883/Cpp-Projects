@@ -22,17 +22,12 @@ Game rules are very simple, you control The Bird and by pressing SPACE. The Bird
 
 
 
-## Screenshots
-
-![App Screenshot](Game_Screen.png)
-
-
 ## Run Locally
 
 Clone the project
 
 ```bash
-  https://github.com/mw301883/MyProjects.git/FlappyBirdInSLD2 (C++)
+  https://github.com/mw301883/MyProjects.git
 ```
 
 Go to the Release file
