@@ -25,7 +25,7 @@ Game rules are very simple, you control The Bird and by pressing SPACE. The Bird
 ## Screenshots
 
 ![App Screenshot](Game_Screen.png = 150x300)
-<img src="Game_Screen.png" width="50%" height="50%">
+<img src="Game_Screen.png" width=150 height=300>
 
 
 ## Run Locally
