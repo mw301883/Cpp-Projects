@@ -31,9 +31,10 @@ Program also contain option to search data base of the reservation. You can disp
 - display only student reservations
 - display only discount reservations
 - display only family reservations
+
 Additionally, you can also search reservation by the specitic name using option "Szukaj rezerwacji" or display all records by option "Wyswietl wszystkie rezerwacje". There is also an option to cancel reservation - "Anulowanie rezerwacji".
 
-<img src="Images/opcje.png" width="300" height="200">
+<img src="Images/opcje.png" width="400" height="200">
 
 In main menu program calculate current profits and statistics which can be saved in outer txt file when user use option "Drukuj raport".
 
