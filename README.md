@@ -24,7 +24,7 @@ Game rules are very simple, you control The Bird and by pressing SPACE. The Bird
 
 ## Screenshots
 
-<img src="Game_Screen.png" width=150 height=300>
+<img src="Game_Screen.png" width=150 height=300> <img src="Game_Screen_Menu.png" width=150 height=300>
 
 ## Run Locally
 
