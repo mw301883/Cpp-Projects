@@ -38,7 +38,7 @@ Additionally, you can also search reservation by the specitic name using option 
 
 In main menu program calculate current profits and statistics which can be saved in outer txt file when user use option "Drukuj raport".
 
-<img src="Images/raport.png" width="300" height="200">
+<img src="Images/raport.png" width="400" height="300">
 ## Run Locally
 
 Clone the project
