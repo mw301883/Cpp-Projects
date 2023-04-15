@@ -1,0 +1,14 @@
+﻿  Data.cpp
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\Cinema Service (C++)\ProjektPK3\Data.cpp(34,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\Cinema Service (C++)\ProjektPK3\Data.cpp(36,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  main.cpp
+  Menu.cpp
+  Ticket.cpp
+  Ticket_D.cpp
+  Ticket_F.cpp
+  Ticket_S.cpp
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+  All 674 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  ProjektPK3.vcxproj -> C:\Users\Michał\OneDrive\Pulpit\Projects Repo\Cinema Service (C++)\Release\ProjektPK3.exe

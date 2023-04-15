@@ -1,0 +1,11 @@
+﻿  Data.cpp
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\Obsluga Sali Kinowej\ProjektPK3\Data.cpp(34,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\Obsluga Sali Kinowej\ProjektPK3\Data.cpp(36,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  main.cpp
+  Menu.cpp
+  Ticket.cpp
+  Ticket_D.cpp
+  Ticket_F.cpp
+  Ticket_S.cpp
+  Generowanie kodu...
+  ProjektPK3.vcxproj -> C:\Users\Michał\OneDrive\Pulpit\Projects Repo\Obsluga Sali Kinowej\Debug\ProjektPK3.exe
