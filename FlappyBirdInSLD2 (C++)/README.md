@@ -11,7 +11,7 @@ I'm a student of Silesian Univeristy of Sciencie in Poland. I am studing Compute
 
 ## Game Description
 
-Game rules are very simple, you control The Bird and by pressing SPACE. The Bird is able to move only up and down in order to avoid the Pipes. In case of the contact with the obstacles the game is over. The speed of the game is constantly changing, as long as you play the speed will increase. Try yourself and earn some Score!!!
+Game rules are very simple, you control The Bird and by pressing SPACE. The Bird is able to move only up and down in order to avoid the Pipes. In case of the contact with the obstacles the game is over. The speed of the game is constantly changing, as long as you play the speed will be increasing. Try yourself and earn some Score!!!
 
 
 
