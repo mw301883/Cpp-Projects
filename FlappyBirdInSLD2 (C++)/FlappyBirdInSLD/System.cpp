@@ -126,7 +126,6 @@ void System::Play() {
 			Background_Sound.Play_Music();
 
 			while (!Program_Quit) {
-				SDL_Delay(2);
 				//Loop which checks User action when the application is running
 				while (SDL_PollEvent(&Game_Event)) {
 					if (Game_Event.type == SDL_QUIT) {
