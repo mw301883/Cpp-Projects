@@ -6,7 +6,7 @@ It is my version of very well common know game wrote in C++ from scratch. I've u
 
 
 ## 🚀 About Me
-I'm a student of Silesian Univeristy of Sciencie in Poland. I am studing Computer Sciencie and currently looking for first employment/apprenticeship. 
+I'm a student of Silesian Univeristy of Technology in Poland. I am studing Computer Science and currently looking for first employment/apprenticeship. 
 
 
 ## Game Description
