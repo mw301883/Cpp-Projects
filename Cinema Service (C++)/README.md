@@ -6,7 +6,7 @@ It is console program which simulate tictets reservation service in the cinema. 
 
 
 ## 🚀 About Me
-I'm a student of Silesian Univeristy of Technology in Poland. I am studing Computer Science and currently looking for first employment/apprenticeship. 
+I'm a student at Silesian Univeristy of Technology in Poland. I am studing Computer Science and currently looking for first employment/apprenticeship. 
 
 
 ## Program Description
