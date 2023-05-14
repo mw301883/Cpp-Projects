@@ -1,0 +1,56 @@
+import Interface;
+import "SDL.h";
+import <iostream>;
+
+Interface::Interface() : Quit(false), Game_Menu(this->Game_Textures, this->Game_Clips, this->Game_Textures[SURFACES_TEXTURES_ENUM::TITLE_TEXT_BLACK], 
+	this->Game_Textures[SURFACES_TEXTURES_ENUM::TITLE_TEXT_WHITE], this->Game_Textures[SURFACES_TEXTURES_ENUM::AUTHOR_TEXT_BLACK], this->Game_Textures[SURFACES_TEXTURES_ENUM::AUTHOR_TEXT_WHITE]), 
+	Game_Snake(this->Window, this->Game_Textures, this->Game_Clips) {}
+
+Interface::~Interface() {}
+
+void Interface::Main_Loop() {
+	//While application is running
+	this->Game_Snake.Grow();
+	//this->Game_Snake.Grow();
+	while (!Quit)
+	{
+		//Handle events on queue
+		while (SDL_PollEvent(&this->event) != 0)
+		{
+			Check_Events();
+		}
+		this->Game_Snake.Move();
+		Render();
+	}
+}
+
+void Interface::Menu_Operations() {
+	if (Game_Menu.Get_Play_Bool()) {
+		this->Game_Snake.Render(this->Renderer);
+		//this->Game_Menu.Reset_Play_Bool();
+	}
+	else if(Game_Menu.Get_Options_Bool()) {
+		this->Game_Menu.Render_SubMenu(this->Renderer);
+	}
+	else if (Game_Menu.Get_Quit_Bool()) {
+		this->Quit = true;
+	}
+	else {
+		Game_Menu.Render_Menu(this->Renderer);
+	}
+}
+
+void Interface::Check_Events() {
+	this->Game_Menu.Check_Events(this->event);
+	this->Game_Snake.Check_Events(this->event);
+}
+
+void Interface::Render() {
+	SDL_SetRenderDrawColor(this->Renderer, 0xFF, 0xFF, 0xFF, 0xFF);
+	SDL_RenderClear(this->Renderer);
+	this->Game_Textures[SURFACES_TEXTURES_ENUM::BACKGROUND].Render(0, 0, this->Renderer, &this->Game_Clips[CLIPS_ENUM::BACKGROUND], 1);
+	Menu_Operations();
+	/*this->Game_Snake.Render(this->Renderer);*/
+
+	SDL_RenderPresent(this->Renderer);
+}

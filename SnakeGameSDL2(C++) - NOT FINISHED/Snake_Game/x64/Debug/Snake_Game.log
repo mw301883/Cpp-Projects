@@ -1,0 +1,18 @@
+﻿  Trwa skanowanie źródeł pod kątem zależności modułów...
+  Snake.cpp
+  Trwa kompilowanie…
+  Apple.ixx
+  Obstacle.ixx
+  Snake.cpp
+  Coin.ixx
+  Apple.cpp
+  Coin.cpp
+  Obstacle.cpp
+  Interface.ixx
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Snake.cpp(193): warning C4715: "Snake::Calculate_Segment”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Snake.cpp(232): warning C4715: "Snake::Set_Snake_Body_Clip”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Snake.cpp(250): warning C4715: "Snake::Set_Snake_Tail_Clip”: niewszystkie ścieżki kodu zwracają wartość
+  Interface.cpp
+  main.cppm
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Interface.cpp(37,46): warning C4244: "argument": konwersja z "Uint64" do "const int", możliwa utrata danych
+  Snake_Game.vcxproj -> C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\x64\Debug\Snake_Game.exe
