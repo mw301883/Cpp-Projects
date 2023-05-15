@@ -1,7 +1,7 @@
 
 # Snake Game
 
- This is aplha version of my newest game Snake with few modifications. Program is being written in C++ with extended graphic library SDL2 as well as my other project FlappyBird. Project will be my semestral graduate program of the subject Comuper Programing 4 (the fourth semester). Below I put some screenshots to demonstrate the game. If you want to try this game on your machine you can easliy run it by clicking the executable file in Release folder, however make sure that your screen setting are set corectly becasue the program have only full screen mode.    
+ This is the alpha version of my newest game Snake with a few modifications. The program is being written in C++ with the extended graphics library SDL2, as well as my other project, Flappy Bird. This project will be my semester-long graduate program for the subject Computer Programming 4 (the fourth semester). Below, I have included some screenshots to demonstrate the game. If you want to try this game on your machine, you can easily run it by clicking the executable file in the Release folder. However, make sure that your screen settings are correctly set because the program only has a full-screen mode.
 
 
 
