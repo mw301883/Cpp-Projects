@@ -18,12 +18,20 @@
                 "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\Core.ixx.ifc"
             },
             {
+                "Name": "Sound",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\Sound.ixx.ifc"
+            },
+            {
                 "Name": "Snake",
                 "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\Snake.ixx.ifc"
             },
             {
                 "Name": "Time_Counter",
                 "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\Time_Counter.ixx.ifc"
+            },
+            {
+                "Name": "Button",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\Button.ixx.ifc"
             }
         ],
         "ImportedHeaderUnits": [
@@ -50,6 +58,10 @@
             {
                 "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\algorithm",
                 "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\algorithm_G53EJ4LJ31MLU2FW.ifc"
+            },
+            {
+                "Header": "c:\\sdl 2\\sdl2_mixer-2.0.4\\include\\sdl_mixer.h",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc"
             }
         ]
     }

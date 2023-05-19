@@ -5,6 +5,19 @@
         "ProvidedModule": "Texture",
         "Includes": [],
         "ImportedModules": [],
-        "ImportedHeaderUnits": []
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\sdl 2\\sdl2-2.0.22\\include\\sdl.h",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\SDL.h_B24F20AEB7BBF9D6.ifc.dt"
+            },
+            {
+                "Header": "c:\\sdl 2\\sdl2_image-2.0.5\\include\\sdl_image.h",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\SDL_image.h_74FEEFEF9CE4B1C7.ifc.dt"
+            },
+            {
+                "Header": "c:\\sdl 2\\sdl2_ttf-2.0.18\\include\\sdl_ttf.h",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\SDL_ttf.h_2525A30A907D3321.ifc.dt"
+            }
+        ]
     }
 }

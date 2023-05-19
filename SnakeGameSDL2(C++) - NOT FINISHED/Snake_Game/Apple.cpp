@@ -2,11 +2,15 @@ import Apple;
 import Texture;
 import Core;
 
-Apple::Apple() : PosX(0), PosY(0), AnimPosX(0), AnimPosY(0), Anim_UP_DN(true), is_Eaten(false), is_Start(true) {}
+Apple::Apple() : PosX(0), PosY(0), AnimPosX(0), AnimPosY(0), Anim_UP_DN(true), is_Eaten(false), is_Start(true) {
+	this->GetApple.Load_Chunk(PATHS::GET_APPLE_SOUND_PATH);
+}
 
 Apple::Apple(Texture Game_Texture[SURFACES_TEXTURES_ENUM::TOTAL], SDL_Rect Game_Clips[CLIPS_ENUM::TOTAL])
 	: Apple_Texture(&Game_Texture[SURFACES_TEXTURES_ENUM::APPLE]), Apple_Clip(Game_Clips[CLIPS_ENUM::APPLE]), 
-	PosX(0), PosY(0), AnimPosX(0), AnimPosY(0), Anim_UP_DN(true), is_Eaten(false), is_Start(true) {}
+	PosX(0), PosY(0), AnimPosX(0), AnimPosY(0), Anim_UP_DN(true), is_Eaten(false), is_Start(true) {
+	this->GetApple.Load_Chunk(PATHS::GET_APPLE_SOUND_PATH);
+}
 
 Apple::~Apple() {}
 
@@ -30,6 +34,7 @@ void Apple::Interaction(Snake& Snake_Obj) {
 		Set_New_Pos();
 		this->is_Eaten = true;
 		this->is_Start = false;
+		this->GetApple.Play_Chunk();
 	}
 	else {
 		this->is_Eaten = false;

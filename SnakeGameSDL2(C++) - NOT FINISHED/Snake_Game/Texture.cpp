@@ -64,15 +64,7 @@ void Texture::Free() {
 		this->Height = 0;
 	}
 }
-/// <summary>
-/// Gdy Full_Format = 1 to tekstura dopasowuje sie do ca³ego ekrany, gdy 0 to pobiera wycinek tekstury z Clip (dla tekstur wiêkszych ni¿ powierzchnia ekranu, dla mniejszych
-/// zmienia rozmiar tekstury)
-/// </summary>
-/// <param name="x"></param>
-/// <param name="y"></param>
-/// <param name="Renderer"></param>
-/// <param name="Clip"></param>
-/// <param name="Full_Format"></param>
+//Gdy Full_Format = 1 to tekstura dopasowuje sie do ca³ego ekrany, gdy 0 to pobiera wycinek tekstury z Clip (dla tekstur wiêkszych ni¿ powierzchnia ekranu, dla mniejszych
 void Texture::Render(const int& x, const int& y, SDL_Renderer* Renderer, SDL_Rect* Clip, const bool& Full_Format) {
 	SDL_Rect RenderTexture{ x, y, this->Width, this->Height };
 	if (Clip != nullptr) {

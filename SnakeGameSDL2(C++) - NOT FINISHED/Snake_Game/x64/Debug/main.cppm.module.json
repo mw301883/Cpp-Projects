@@ -4,7 +4,6 @@
         "Source": "c:\\users\\michał\\source\\repos\\89863361-gr21-repo\\projekt\\snake_game\\snake_game\\main.cppm",
         "ProvidedModule": "",
         "ImportedModules": [
-            "Core",
             "Interface"
         ],
         "ImportedHeaderUnits": [

@@ -26,7 +26,6 @@ Core::Core() {
 		}
 		else {
 			load_Clips();
-			//TODO MUSIC INIT
 		}
 	}
 }
@@ -34,7 +33,6 @@ Core::Core() {
 Core::~Core() {
 	SDL_DestroyRenderer(this->Renderer);
 	this->Renderer = nullptr;
-	//TODO texture destroyer
 	SDL_FreeSurface(this->Screen_Surface);
 	this->Screen_Surface = nullptr;
 	SDL_DestroyWindow(this->Window);

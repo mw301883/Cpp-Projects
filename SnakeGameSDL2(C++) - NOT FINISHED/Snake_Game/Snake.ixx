@@ -6,9 +6,9 @@ import Texture;
 import Time_Counter;
 import <deque>;
 import <tuple>;
-import <algorithm>;
 import <SDL_ttf.h>;
 import Button;
+import Sound;
 
 namespace SNAKE_ENUM {
 	enum {
@@ -46,7 +46,7 @@ private:
 	SDL_Rect Snake_Clips[SNAKE_ENUM::TOTAL];
 	Time_Counter Counter;
 	int PosX, PosY, Screen_Width, Screen_Height, Lenght, Direction, Speed, Score, Time;
-	bool is_Colision, New_Play, is_Add_Score, is_Minus_Score, is_Back_To_Menu/*, is_Menu_Animation*/;
+	bool is_Colision, New_Play, is_Add_Score, is_Minus_Score, is_Back_To_Menu;
 	std::deque<std::tuple<int, int, SDL_Rect, int>> Snake_Body;
 	void Set_Segments();
 	SDL_Rect Set_Snake_Head_Clip();
@@ -55,6 +55,7 @@ private:
 	SDL_Rect Set_Snake_Tail_Clip(const int& Clip_Num);
 	void Check_If_Collision();
 	void Reset();
+	Sound Collision;
 public:
 	Snake();
 	Snake(SDL_Window* Screen_Window, Texture Game_Texture[SURFACES_TEXTURES_ENUM::TOTAL], SDL_Rect Game_Clips[CLIPS_ENUM::TOTAL]);
@@ -69,10 +70,10 @@ public:
 	int Get_PosX();
 	int Get_PosY();
 	int Get_Score();
+	std::string Get_Time();
 	void Set_Score(const int& New_Score);
 	void Display_Statis(SDL_Renderer* Renderer, TTF_Font* Font, Texture* Score_White, Texture* Score_Black, Texture* Time_White, Texture* Time_Black);
 	void Begining_Text(SDL_Renderer* Renderer, Texture* Text_Texture_White, Texture* Text_Texture_Black);
 	void Start_Timer(const int& Prev_Time);
 	bool Display_GmOv_Statis(SDL_Renderer* Renderer, TTF_Font* Font, Texture* Score_White, Texture* Score_Black, Texture* Time_White, Texture* Time_Black, Texture* Gm_Ov_White, Texture* Gm_Ov_Black, Button& Cancel_Button);
-	//void Menu_Animation(SDL_Renderer* Renderer); TODO
 };

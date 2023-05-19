@@ -3,6 +3,7 @@ export module Apple;
 import Texture;
 import Game_Object;
 import Core;
+import Sound;
 
 export class Apple : public Game_Object {
 private:
@@ -15,7 +16,7 @@ private:
 	void Set_New_Pos();
 	void Set_Anim_Pos();
 	void Get_Animation(SDL_Renderer* Renderer);
-
+	Sound GetApple;
 public:
 	Apple();
 	Apple(Texture Game_Texture[SURFACES_TEXTURES_ENUM::TOTAL], SDL_Rect Game_Clips[CLIPS_ENUM::TOTAL]);

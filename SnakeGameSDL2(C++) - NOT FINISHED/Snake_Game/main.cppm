@@ -1,7 +1,6 @@
 import <SDL.h>;
 import <iostream>;
 import <stdexcept>;
-import Core;
 import Interface;
 
 int main(int argc, char* argv[]) {

@@ -3,6 +3,7 @@ export module Button;
 import Texture;
 import "SDL.h";
 import Core;
+import Sound;
 
 export class Button {
 private:
@@ -16,6 +17,7 @@ private:
 	SDL_Rect Button_Clip;
 	SDL_Point Position;
 	void Animation(const int& x, const int& y, SDL_Renderer* Renderer);
+	Sound Selected, Clicked;
 public:
 	Button();
 	Button(Texture& Button_Texture_NOT_Clicked, Texture& Button_Texture_Clicked,Texture& Button_Texture_BLACK, SDL_Rect Button_Clip);

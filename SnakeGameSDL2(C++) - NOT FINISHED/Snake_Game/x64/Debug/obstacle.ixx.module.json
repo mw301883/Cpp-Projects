@@ -6,7 +6,8 @@
         "ImportedModules": [
             "Game_Object",
             "Texture",
-            "Core"
+            "Core",
+            "Sound"
         ],
         "ImportedHeaderUnits": []
     }

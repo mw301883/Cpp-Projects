@@ -3,6 +3,7 @@ export module Coin;
 import Game_Object;
 import Texture;
 import Core;
+import Sound;
 
 export namespace COIN_ENUM {
 	enum {
@@ -26,7 +27,7 @@ private:
 	void Set_New_Pos();
 	void Set_Anim_Pos();
 	void Get_Animation(SDL_Renderer* Renderer);
-
+	Sound GetCoin;
 public:
 	Coin();
 	Coin(Texture Game_Texture[SURFACES_TEXTURES_ENUM::TOTAL], SDL_Rect Game_Clips[CLIPS_ENUM::TOTAL]);

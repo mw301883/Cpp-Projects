@@ -10,6 +10,9 @@ import Coin;
 import Obstacle;
 import <vector>;
 import <memory>;
+import Sound;
+
+export int Check_Record_Score(const char& ch_one, const char& ch_two, const char& ch_three);
 
 export class Interface : protected Core {
 private:
@@ -20,6 +23,9 @@ private:
 	void Check_Events();
 	void Render();
 	std::vector<std::unique_ptr<Game_Object>> Game_Objects;
+	Sound Menu_Theme;
+	void Save_Records(const int& New_Score, const std::string& New_Time);
+	void Play();
 public:
 	Interface();
 	~Interface();

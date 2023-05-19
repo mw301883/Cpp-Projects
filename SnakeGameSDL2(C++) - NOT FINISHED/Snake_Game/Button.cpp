@@ -7,6 +7,8 @@ Button::Button() {}
 Button::Button(Texture& Button_Texture_NOT_Clicked, Texture& Button_Texture_Clicked, Texture& Button_Texture_BLACK, SDL_Rect Button_Clip) : Button_Texture_NOT_Clicked(&Button_Texture_NOT_Clicked), Button_Texture_Clicked(&Button_Texture_Clicked), Button_Texture_BLACK(&Button_Texture_BLACK), Button_Clip(Button_Clip),is_Light(true), is_Main_Button(false), Anim_Frames(0), Index(0) {
 	this->Position.x = 0;
 	this->Position.y = 0;
+	this->Selected.Load_Chunk(PATHS::BUTTON_SELECTED_SOUND_PATH);
+	this->Clicked.Load_Chunk(PATHS::BUTTON_CLICKED_SOUND_PATH);
 }
 Button::Button(Texture Button_Texture_Animation[CLIPS_ENUM::Main_Buttons_Anim_Count], SDL_Rect Button_Clip, const int& begin, const int& end) : Button_Clip(Button_Clip), is_Light(true), is_Main_Button(true), Anim_Frames(0), Index(0) {
 	int j = 0;
@@ -15,6 +17,8 @@ Button::Button(Texture Button_Texture_Animation[CLIPS_ENUM::Main_Buttons_Anim_Co
 	}
 	this->Position.x = 0;
 	this->Position.y = 0;
+	this->Selected.Load_Chunk(PATHS::BUTTON_SELECTED_SOUND_PATH);
+	this->Clicked.Load_Chunk(PATHS::BUTTON_CLICKED_SOUND_PATH);
 }
 
 Button::~Button() {
@@ -38,11 +42,15 @@ void Button::Check_Event(SDL_Event* Mouse_Event) {
 			is_Light = false;
 		}
 		else {
+			if (!this->is_Light) {
+				this->Selected.Play_Chunk();
+			}
 			is_Light = true;
 		}
 	}
 	if (Mouse_Event->type == SDL_MOUSEBUTTONDOWN && is_Light == true) {
 		this->is_Clicked = true;
+		this->Clicked.Play_Chunk();
 	}
 	this->is_Light = is_Light;
 }

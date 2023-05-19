@@ -160,6 +160,8 @@
     <ClCompile Include="Obstacle.ixx" />
     <ClCompile Include="Snake.cpp" />
     <ClCompile Include="Snake.ixx" />
+    <ClCompile Include="Sound.cpp" />
+    <ClCompile Include="Sound.ixx" />
     <ClCompile Include="Texture.cpp" />
     <ClCompile Include="Texture.ixx" />
     <ClCompile Include="Time_Counter.cpp" />

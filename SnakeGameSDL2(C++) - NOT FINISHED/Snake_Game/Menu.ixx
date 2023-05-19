@@ -4,6 +4,11 @@ import Button;
 import "SDL.h";
 import Core;
 import Snake;
+import Sound;
+import <vector>;
+import <string>;
+import <SDL_ttf.h>;
+import Texture;
 
 export namespace BUTTON_ENUM {
 	enum {
@@ -31,18 +36,19 @@ private:
 	void Menu_Actions();
 	void Reset_Buttons();
 	void Render_Title_Author(SDL_Renderer* Renderer);
-	void SubMenu_Actions();
-	void Button_ON_OFF(const int& Button_Index, bool& Button_Bool);
+	void SubMenu_Actions(Sound* Menu_Theme = nullptr);
+	void Button_ON_OFF(const int& Button_Index, bool& Button_Bool, Sound* Menu_Theme = nullptr);
+	void Display_Ranking(SDL_Renderer* Renderer, TTF_Font* Font);
 public:
 	Menu();
 	Menu(Texture Game_Textures[SURFACES_TEXTURES_ENUM::TOTAL], SDL_Rect Game_Clips[CLIPS_ENUM::TOTAL], Texture& Title_TEXT_BLACK, Texture& Title_TEXT_WHITE, Texture& Author_TEXT_BLACK, Texture& Author_TEXT_WHITE);
 	~Menu();
-	void Check_Events(SDL_Event Event);
+	void Check_Events(SDL_Event Event, Sound* Menu_Theme);
 	void Render_Menu(SDL_Renderer* Renderer);
 	bool Get_Play_Bool();
 	bool Get_Options_Bool();
 	bool Get_Quit_Bool();
-	void Render_SubMenu(SDL_Renderer* Renderer);
+	void Render_SubMenu(SDL_Renderer* Renderer, TTF_Font* Font);
 	void Reset_Play_Bool();
 	void Reset_Option_Bool();
 	void Button_GmOv_Menu();

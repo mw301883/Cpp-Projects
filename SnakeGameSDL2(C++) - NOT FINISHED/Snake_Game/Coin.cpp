@@ -3,7 +3,9 @@ import Coin;
 import Texture;
 import Core;
 
-Coin::Coin() : PosX(0), PosY(0), AnimPosX(0), AnimPosY(0), is_Eaten(false), is_Start(true) {}
+Coin::Coin() : PosX(0), PosY(0), AnimPosX(0), AnimPosY(0), is_Eaten(false), is_Start(true) {
+	this->GetCoin.Load_Chunk(PATHS::GET_COIN_SOUND_PATH);
+}
 
 Coin::Coin(Texture Game_Texture[SURFACES_TEXTURES_ENUM::TOTAL], SDL_Rect Game_Clips[CLIPS_ENUM::TOTAL])
 	: PosX(0), PosY(0), AnimPosX(0), AnimPosY(0), is_Eaten(false), is_Start(true) {
@@ -15,6 +17,7 @@ Coin::Coin(Texture Game_Texture[SURFACES_TEXTURES_ENUM::TOTAL], SDL_Rect Game_Cl
 	for(int i = CLIPS_ENUM::COIN_1; i <= CLIPS_ENUM::COIN_6; ++i, ++j){
 		this->Coin_Clips[j] = Game_Clips[i];
 	}
+	this->GetCoin.Load_Chunk(PATHS::GET_COIN_SOUND_PATH);
 }
 
 Coin::~Coin() {}
@@ -62,6 +65,7 @@ void Coin::Interaction(Snake& Snake_Obj) {
 		Set_New_Pos();
 		this->is_Eaten = true;
 		this->is_Start = false;
+		this->GetCoin.Play_Chunk();
 	}
 	else {
 		this->is_Eaten = false;

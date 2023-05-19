@@ -4,9 +4,6 @@ import <SDL.h>;
 import <SDL_mixer.h>;
 import <SDL_ttf.h>;
 import <SDL_image.h>;
-import <string>;
-import <stdio.h>;
-import <map>;
 import <vector>;
 import <memory>;
 import <string>;
@@ -48,6 +45,12 @@ export namespace PATHS {
 	std::string SNAKE_PATH{ "Graphics/Snake.png"};
 	std::string OBSTACLE_PATH{"Graphics/obstacle.png"};
 	std::string FONT_PATH{"TTF_Fonts/Squirk-RMvV.ttf"};
+	std::string MENU_THEME_PATH{ "Sounds/Menu_Theme.wav" };
+	std::string BUTTON_CLICKED_SOUND_PATH{"Sounds/ButtonClicked.wav"};
+	std::string BUTTON_SELECTED_SOUND_PATH{ "Sounds/ButtonSelected.wav" };
+	std::string GET_APPLE_SOUND_PATH{ "Sounds/GetApple.wav" };
+	std::string GET_COIN_SOUND_PATH{ "Sounds/GetCoin.wav" };
+	std::string COLLISION_SOUND_PATH{ "Sounds/Collision.wav" };
 }
 
 export namespace SURFACES_TEXTURES_ENUM {
@@ -132,12 +135,11 @@ export namespace TEXT_TTF {
 		SCORE_TEXT{ "SCORE : " },
 		TIME_TEXT{ "TIME : " },
 		START_TEXT{ "PRESS ANY MOTION KEY TO START" },
-		GAME_OVER_TEXT{ "GAME OVER" };
+		GAME_OVER_TEXT{ "GAME OVER" },
+		RECORDS_DISPLAY{"SCORE      TIME          DATE"};
 }
 
-/// <summary>
-/// Klasa inizjalizujaca i obslugujaca biblioteke graficzna SDL 2
-/// </summary>
+// Klasa inizjalizujaca i obslugujaca biblioteke graficzna SDL 2
 export class Core {
 protected:
 	SDL_Window* Window;
@@ -150,14 +152,12 @@ protected:
 	SDL_Event event;
 	int Width, Height;
 	bool initialisation();
-	//Loading all files which are required to proper work of the application
 	bool load_media();
 	Core();
 	~Core();
 private:
 	SDL_Texture* loadTexture(const std::string& path);
 	void Load_IMG_Surface(SDL_Surface*& Buff_Surface, SDL_Surface*& Optimized_Surface, bool& success, SDL_Surface*& Class_Member_Surface);
-	//Loading TTF files (every subtitles in the application)
 	void Load_TTF(TTF_Font*& TextFont, bool& success, std::string& Text, const int& Index, const int& R, const int& G, const int& B);
 	void load_Clips();
 };

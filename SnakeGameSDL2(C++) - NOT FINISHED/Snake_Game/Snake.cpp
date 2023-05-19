@@ -7,16 +7,19 @@ import <algorithm>;
 import <string>;
 import Button;
 
-Snake::Snake() : PosX(500), PosY(500), Lenght(2), Score(0), Time(0), Direction(DIRECTION::NONE), Speed(40), is_Colision(false), New_Play(true), is_Add_Score(false), is_Minus_Score(false), is_Back_To_Menu(false), /*is_Menu_Animation(true),*/ Counter() {}
+Snake::Snake() : PosX(500), PosY(500), Lenght(2), Score(0), Time(0), Direction(DIRECTION::NONE), Speed(40), is_Colision(false), New_Play(true), is_Add_Score(false), is_Minus_Score(false), is_Back_To_Menu(false), /*is_Menu_Animation(true),*/ Counter() {
+    this->Collision.Load_Chunk(PATHS::COLLISION_SOUND_PATH);
+}
 
 Snake::Snake(SDL_Window* Screen_Window, Texture Game_Texture[SURFACES_TEXTURES_ENUM::TOTAL], SDL_Rect Game_Clips[CLIPS_ENUM::TOTAL]) 
     : Snake_Texture(&Game_Texture[SURFACES_TEXTURES_ENUM::SNAKE]), PosX(500), PosY(500), Lenght(2), Score(0), Time(0), Direction(DIRECTION::NONE), Speed(40), 
-    is_Colision(false), New_Play(true), is_Add_Score(false), is_Minus_Score(false), is_Back_To_Menu(false), /*is_Menu_Animation(true),*/ Counter() {
+    is_Colision(false), New_Play(true), is_Add_Score(false), is_Minus_Score(false), is_Back_To_Menu(false), Counter() {
     SDL_GetWindowSize(Screen_Window, &Screen_Width, &Screen_Height);
     int j = 0;
     for (int i = CLIPS_ENUM::SNAKE_TAIL_DOWN; i < CLIPS_ENUM::OBSTACLE; ++i, ++j) {
         this->Snake_Clips[j] = Game_Clips[i];
     }
+    this->Collision.Load_Chunk(PATHS::COLLISION_SOUND_PATH);
 }
 
 Snake::~Snake() {
@@ -252,10 +255,14 @@ SDL_Rect Snake::Set_Snake_Tail_Clip(const int& Clip_Num) {
 void Snake::Check_If_Collision() {
     if ((this->PosX < 0) || (this->PosX + this->Width > Screen_Width))
     {
+        if(!this->is_Colision)
+            this->Collision.Play_Chunk();
         this->is_Colision = true;
     }
     else if ((this->PosY < 0) || (this->PosY + this->Height > Screen_Height))
     {
+        if(!this->is_Colision)
+            this->Collision.Play_Chunk();
         this->is_Colision = true;
     }
     else
@@ -265,6 +272,7 @@ void Snake::Check_If_Collision() {
     std::for_each(this->Snake_Body.begin() + 2, this->Snake_Body.end(), [&,this](auto& Segment) {
         if (std::get<0>(Snake_Body.at(0)) == std::get<0>(Segment) && std::get<1>(Snake_Body.at(0)) == std::get<1>(Segment)) {
             if (!New_Play) {
+                this->Collision.Play_Chunk();
                 this->is_Colision = true;
             }
             else
@@ -391,16 +399,6 @@ bool Snake::Display_GmOv_Statis(SDL_Renderer* Renderer, TTF_Font* Font, Texture*
     return false;
 }
 
-//void Snake::Menu_Animation(SDL_Renderer* Renderer) {
-//    if (this->is_Menu_Animation) {
-//        this->PosX = 200;
-//        this->PosY = 500;
-//        for (int i = 0; i < 20; ++i) {
-//            Grow();
-//        }
-//        //this->is_Menu_Animation = false;
-//        //this->Direction = DIRECTION::LEFT;
-//    }
-//    Render(Renderer);
-//    //++this->PosX;
-//}
+std::string Snake::Get_Time() {
+    return this->Counter.Return_Time();
+}

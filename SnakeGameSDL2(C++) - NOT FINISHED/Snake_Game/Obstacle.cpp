@@ -2,11 +2,15 @@ import Obstacle;
 import Texture;
 import Core;
 
-Obstacle::Obstacle() : PosX(0), PosY(0), AnimPosX(0), AnimPosY(0), is_Eaten(false), is_Start(true) {}
+Obstacle::Obstacle() : PosX(0), PosY(0), AnimPosX(0), AnimPosY(0), is_Eaten(false), is_Start(true) {
+	this->Collision.Load_Chunk(PATHS::COLLISION_SOUND_PATH);
+}
 
 Obstacle::Obstacle(Texture Game_Texture[SURFACES_TEXTURES_ENUM::TOTAL], SDL_Rect Game_Clips[CLIPS_ENUM::TOTAL])
 	: Obstacle_Texture(&Game_Texture[SURFACES_TEXTURES_ENUM::OBSTACLE]), Obstacle_Clip(Game_Clips[CLIPS_ENUM::OBSTACLE]),
-	PosX(0), PosY(0), AnimPosX(0), AnimPosY(0), is_Eaten(false), is_Start(true) {}
+	PosX(0), PosY(0), AnimPosX(0), AnimPosY(0), is_Eaten(false), is_Start(true) {
+	this->Collision.Load_Chunk(PATHS::COLLISION_SOUND_PATH);
+}
 
 Obstacle::~Obstacle() {}
 
@@ -29,6 +33,7 @@ void Obstacle::Interaction(Snake& Snake_Obj) {
 		Set_New_Pos();
 		this->is_Eaten = true;
 		this->is_Start = false;
+		this->Collision.Play_Chunk();
 	}
 	else {
 		this->is_Eaten = false;
