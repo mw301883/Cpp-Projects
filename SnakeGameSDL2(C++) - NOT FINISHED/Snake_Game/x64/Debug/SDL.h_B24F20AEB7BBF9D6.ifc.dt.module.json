@@ -1,9 +1,0 @@
-{
-    "Version": "1.1",
-    "Data": {
-        "Source": "c:\\sdl 2\\sdl2-2.0.22\\include\\sdl.h",
-        "ProvidedModule": "",
-        "ImportedModules": [],
-        "ImportedHeaderUnits": []
-    }
-}
