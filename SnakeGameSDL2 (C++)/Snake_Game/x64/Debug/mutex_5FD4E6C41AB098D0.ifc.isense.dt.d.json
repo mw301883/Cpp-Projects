@@ -1,0 +1,166 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\mutex",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\yvals_core.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\vcruntime.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\sal.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\concurrencysal.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\vadefs.h",
+            "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\xkeycheck.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\__msvc_chrono.hpp",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\__msvc_chrono.hpp_8181A54D5957D1B8.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\compare",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\compare_83FC7EA7827B5A48.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\bit",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\bit_467D200BAC7E4D14.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\limits",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\limits_72EB8CDFBDC52CB1.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\climits",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\climits_6DE80EF5C0F0DBFA.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\cfloat",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\cfloat_9CC633E8243A63B4.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\cwchar",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\cwchar_334DD170B4701403.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\cstdio",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\cstdio_8344826482032F5F.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\xstddef",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\xstddef_A2455E3B369F17BF.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\cstdlib",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\cstdlib_F79F28C8DD8D991E.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\cstddef",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\cstddef_B31EF4C8B6FA6DD6.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\xtr1common",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\xtr1common_60DD4CA7CB9FD65D.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\initializer_list",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\initializer_list_5B9767F87066F5E0.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\type_traits",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\type_traits_305C35C781A7175F.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\cstdint",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\cstdint_1095B5C8EB66E608.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\concepts",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\concepts_CC045E873C51024.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\ctime",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\ctime_D4B5E993D5D98F7.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\utility",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\utility_2B8D7A5939136D0B.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\ratio",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\ratio_83E2A2093FFC44C0.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\xtimec.h",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\xtimec.h_3F831650919B1885.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\thread",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\thread_9294CA4D77A2A57D.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\xthreads.h",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\xthreads.h_12442CAEE283A34E.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\stop_token",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\stop_token_E98A103C17614E87.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\atomic",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\atomic_D05DAF13C5944E0C.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\xatomic_wait.h",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\xatomic_wait.h_E1EADE3436DB9434.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\xatomic.h",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\xatomic.h_989B23BA33456200.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\cstring",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\cstring_FC3AEC341662BCAF.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\xmemory",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\xmemory_D2F5C4E4F4566CFC.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\new",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\new_21FB6F0B974A1D15.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\exception",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\exception_EB4F5717184C7BAA.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\tuple",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\tuple_110254D85E50B8CD.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\__msvc_iter_core.hpp",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\__msvc_iter_core.hpp_F1801B2A0DF96F79.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\xutility",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\xutility_1434A6CA9FBE47F9.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\memory",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\memory_7A67EDE081DC80E2.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\iosfwd",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\iosfwd_A52123EBEB1E057.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\typeinfo",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\typeinfo_637416EA2AF57D59.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\xcall_once.h",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\xcall_once.h_BF3677E3988A9A53.ifc.dt"
+            }
+        ]
+    }
+}

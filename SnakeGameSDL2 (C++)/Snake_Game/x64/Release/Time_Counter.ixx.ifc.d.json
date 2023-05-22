@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\michał\\source\\repos\\89863361-gr21-repo\\projekt\\snake_game\\snake_game\\time_counter.ixx",
+        "ProvidedModule": "Time_Counter",
+        "Includes": [],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.35.32215\\include\\string",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\string_G2RL5U85SPZN5M9Q.ifc"
+            }
+        ]
+    }
+}

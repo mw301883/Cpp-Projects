@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\michał\\source\\repos\\89863361-gr21-repo\\projekt\\snake_game\\snake_game\\texture.ixx",
+        "ProvidedModule": "Texture",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": [
+            "C:\\SDL 2\\SDL2-2.0.22\\include\\SDL.h",
+            "C:\\SDL 2\\SDL2_image-2.0.5\\include\\SDL_image.h",
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\include\\string",
+            "C:\\SDL 2\\SDL2_ttf-2.0.18\\include\\SDL_ttf.h"
+        ]
+    }
+}

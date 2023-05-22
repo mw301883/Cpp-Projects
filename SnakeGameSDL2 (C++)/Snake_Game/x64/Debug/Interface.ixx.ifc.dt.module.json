@@ -1,0 +1,26 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\michał\\source\\repos\\89863361-gr21-repo\\projekt\\snake_game\\snake_game\\interface.ixx",
+        "ProvidedModule": "Interface",
+        "ImportedModules": [
+            "Core",
+            "Button",
+            "Menu",
+            "Snake",
+            "Game_Object",
+            "Apple",
+            "Coin",
+            "Obstacle",
+            "Sound"
+        ],
+        "ImportedHeaderUnits": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\include\\vector",
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\include\\memory",
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\include\\filesystem",
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\include\\iomanip",
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\include\\fstream",
+            "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22000.0\\ucrt\\time.h"
+        ]
+    }
+}
