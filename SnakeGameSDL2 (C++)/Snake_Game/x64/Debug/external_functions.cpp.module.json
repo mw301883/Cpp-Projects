@@ -1,11 +1,18 @@
 {
-    "Version": "1.1",
-    "Data": {
-        "Source": "c:\\users\\michał\\source\\repos\\89863361-gr21-repo\\projekt\\snake_game\\snake_game\\external_functions.cpp",
-        "ProvidedModule": "",
-        "ImportedModules": [
-            "External_Functions"
-        ],
-        "ImportedHeaderUnits": []
-    }
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\External_Functions.obj",
+            "outputs": [
+                "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\"
+            ],
+            "requires": [
+                {
+                    "logical-name": "External_Functions"
+                }
+            ]
+        }
+    ]
 }

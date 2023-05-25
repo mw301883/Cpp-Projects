@@ -1,0 +1,23 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\michał\\source\\repos\\89863361-gr21-repo\\projekt\\snake_game\\snake_game\\interface.cpp",
+        "ProvidedModule": "",
+        "ImportedModules": [
+            "Interface",
+            "Apple",
+            "Coin",
+            "Obstacle",
+            "Sound",
+            "External_Functions"
+        ],
+        "ImportedHeaderUnits": [
+            "C:\\SDL 2\\SDL2-2.0.22\\include\\SDL.h",
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\iostream",
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\filesystem",
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\fstream",
+            "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22000.0\\ucrt\\time.h",
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\iomanip"
+        ]
+    }
+}

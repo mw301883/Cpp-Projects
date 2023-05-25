@@ -1,4 +1,5 @@
 import Sound;
+import "SDL_Mixer.h";
 
 bool Sound::isActive = true;
 

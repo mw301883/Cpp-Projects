@@ -1,9 +1,22 @@
 {
-    "Version": "1.1",
-    "Data": {
-        "Source": "c:\\sdl 2\\sdl2_ttf-2.0.18\\include\\sdl_ttf.h",
-        "ProvidedModule": "",
-        "ImportedModules": [],
-        "ImportedHeaderUnits": []
-    }
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\SDL_ttf.h_DOKDNH8YH2VBC7C4.obj",
+            "outputs": [
+                "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\vc143.pdb",
+                "x64\\Release\\SDL_ttf.h_DOKDNH8YH2VBC7C4.module.json",
+                "x64\\Release\\SDL_ttf.h_DOKDNH8YH2VBC7C4.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\SDL 2\\SDL2_ttf-2.0.18\\include\\SDL_ttf.h",
+                    "source-path": "c:\\sdl 2\\sdl2_ttf-2.0.18\\include\\sdl_ttf.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
 }

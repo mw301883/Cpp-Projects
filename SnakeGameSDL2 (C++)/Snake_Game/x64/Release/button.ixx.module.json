@@ -1,16 +1,44 @@
 {
-    "Version": "1.1",
-    "Data": {
-        "Source": "c:\\users\\michał\\source\\repos\\89863361-gr21-repo\\projekt\\snake_game\\snake_game\\button.ixx",
-        "ProvidedModule": "Button",
-        "ImportedModules": [
-            "Texture",
-            "Core",
-            "Sound"
-        ],
-        "ImportedHeaderUnits": [
-            "C:\\SDL 2\\SDL2-2.0.22\\include\\SDL.h",
-            "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22000.0\\ucrt\\stdio.h"
-        ]
-    }
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\Button.ixx.obj",
+            "outputs": [
+                "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\vc143.pdb",
+                "x64\\Release\\",
+                "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\Button.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Button",
+                    "source-path": "c:\\users\\michał\\source\\repos\\89863361-gr21-repo\\projekt\\snake_game\\snake_game\\button.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "Texture"
+                },
+                {
+                    "logical-name": "Core"
+                },
+                {
+                    "logical-name": "Sound"
+                },
+                {
+                    "logical-name": "SDL.h",
+                    "source-path": "C:\\SDL 2\\SDL2-2.0.22\\include\\SDL.h",
+                    "lookup-method": "include-quote",
+                    "unique-on-source-path": true
+                },
+                {
+                    "logical-name": "stdio.h",
+                    "source-path": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22000.0\\ucrt\\stdio.h",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                }
+            ]
+        }
+    ]
 }

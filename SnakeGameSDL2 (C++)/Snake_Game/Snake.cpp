@@ -8,6 +8,7 @@ import <string>;
 import Button;
 import <fstream>;
 import External_Functions;
+import <SDL_ttf.h>;
 
 Snake::Snake() : PosX(500), PosY(500), Lenght(2), Score(0), Time(0), Direction(DIRECTION::NONE), Speed(40), is_Colision(false), New_Play(true), is_Add_Score(false), is_Minus_Score(false), is_Back_To_Menu(false), /*is_Menu_Animation(true),*/ Counter() {
     this->Collision.Load_Chunk(PATHS::COLLISION_SOUND_PATH);

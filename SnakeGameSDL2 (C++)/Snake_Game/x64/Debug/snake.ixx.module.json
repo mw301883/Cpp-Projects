@@ -1,23 +1,77 @@
 {
-    "Version": "1.1",
-    "Data": {
-        "Source": "c:\\users\\michał\\source\\repos\\89863361-gr21-repo\\projekt\\snake_game\\snake_game\\snake.ixx",
-        "ProvidedModule": "Snake",
-        "ImportedModules": [
-            "Core",
-            "Texture",
-            "Time_Counter",
-            "Button",
-            "Sound",
-            "External_Functions"
-        ],
-        "ImportedHeaderUnits": [
-            "C:\\SDL 2\\SDL2-2.0.22\\include\\SDL.h",
-            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\include\\deque",
-            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\include\\tuple",
-            "C:\\SDL 2\\SDL2_ttf-2.0.18\\include\\SDL_ttf.h",
-            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\include\\algorithm",
-            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\include\\fstream"
-        ]
-    }
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Snake.ixx.obj",
+            "outputs": [
+                "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\Snake.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Snake",
+                    "source-path": "c:\\users\\michał\\source\\repos\\89863361-gr21-repo\\projekt\\snake_game\\snake_game\\snake.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "Core"
+                },
+                {
+                    "logical-name": "Texture"
+                },
+                {
+                    "logical-name": "Time_Counter"
+                },
+                {
+                    "logical-name": "Button"
+                },
+                {
+                    "logical-name": "Sound"
+                },
+                {
+                    "logical-name": "External_Functions"
+                },
+                {
+                    "logical-name": "SDL.h",
+                    "source-path": "C:\\SDL 2\\SDL2-2.0.22\\include\\SDL.h",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                },
+                {
+                    "logical-name": "deque",
+                    "source-path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\deque",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                },
+                {
+                    "logical-name": "tuple",
+                    "source-path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\tuple",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                },
+                {
+                    "logical-name": "SDL_ttf.h",
+                    "source-path": "C:\\SDL 2\\SDL2_ttf-2.0.18\\include\\SDL_ttf.h",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                },
+                {
+                    "logical-name": "algorithm",
+                    "source-path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\algorithm",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                },
+                {
+                    "logical-name": "fstream",
+                    "source-path": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\fstream",
+                    "lookup-method": "include-angle",
+                    "unique-on-source-path": true
+                }
+            ]
+        }
+    ]
 }

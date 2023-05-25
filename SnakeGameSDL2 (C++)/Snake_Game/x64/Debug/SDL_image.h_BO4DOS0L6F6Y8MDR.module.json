@@ -1,9 +1,22 @@
 {
-    "Version": "1.1",
-    "Data": {
-        "Source": "c:\\sdl 2\\sdl2_image-2.0.5\\include\\sdl_image.h",
-        "ProvidedModule": "",
-        "ImportedModules": [],
-        "ImportedHeaderUnits": []
-    }
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\SDL_image.h_BO4DOS0L6F6Y8MDR.obj",
+            "outputs": [
+                "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\SDL_image.h_BO4DOS0L6F6Y8MDR.module.json",
+                "x64\\Debug\\SDL_image.h_BO4DOS0L6F6Y8MDR.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\SDL 2\\SDL2_image-2.0.5\\include\\SDL_image.h",
+                    "source-path": "c:\\sdl 2\\sdl2_image-2.0.5\\include\\sdl_image.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
 }

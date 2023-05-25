@@ -1,13 +1,24 @@
 {
-    "Version": "1.1",
-    "Data": {
-        "Source": "c:\\users\\michał\\source\\repos\\89863361-gr21-repo\\projekt\\snake_game\\snake_game\\apple.cpp",
-        "ProvidedModule": "",
-        "ImportedModules": [
-            "Apple",
-            "Texture",
-            "Core"
-        ],
-        "ImportedHeaderUnits": []
-    }
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Apple.obj",
+            "outputs": [
+                "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\"
+            ],
+            "requires": [
+                {
+                    "logical-name": "Apple"
+                },
+                {
+                    "logical-name": "Texture"
+                },
+                {
+                    "logical-name": "Core"
+                }
+            ]
+        }
+    ]
 }

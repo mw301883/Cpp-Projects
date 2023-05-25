@@ -1,9 +1,22 @@
 {
-    "Version": "1.1",
-    "Data": {
-        "Source": "c:\\sdl 2\\sdl2_mixer-2.0.4\\include\\sdl_mixer.h",
-        "ProvidedModule": "",
-        "ImportedModules": [],
-        "ImportedHeaderUnits": []
-    }
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Release\\SDL_Mixer.h_0F9938MWJY3B4E2Y.obj",
+            "outputs": [
+                "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\vc143.pdb",
+                "x64\\Release\\SDL_Mixer.h_0F9938MWJY3B4E2Y.module.json",
+                "x64\\Release\\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "C:\\SDL 2\\SDL2_mixer-2.0.4\\include\\SDL_Mixer.h",
+                    "source-path": "c:\\sdl 2\\sdl2_mixer-2.0.4\\include\\sdl_mixer.h",
+                    "lookup-method": "absolute"
+                }
+            ],
+            "requires": []
+        }
+    ]
 }

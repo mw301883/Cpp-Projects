@@ -1,14 +1,35 @@
 {
-    "Version": "1.1",
-    "Data": {
-        "Source": "c:\\users\\michał\\source\\repos\\89863361-gr21-repo\\projekt\\snake_game\\snake_game\\apple.ixx",
-        "ProvidedModule": "Apple",
-        "ImportedModules": [
-            "Texture",
-            "Game_Object",
-            "Core",
-            "Sound"
-        ],
-        "ImportedHeaderUnits": []
-    }
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "x64\\Debug\\Apple.ixx.obj",
+            "outputs": [
+                "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\vc143.pdb",
+                "x64\\Debug\\",
+                "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\Apple.ixx.ifc"
+            ],
+            "provides": [
+                {
+                    "logical-name": "Apple",
+                    "source-path": "c:\\users\\michał\\source\\repos\\89863361-gr21-repo\\projekt\\snake_game\\snake_game\\apple.ixx",
+                    "is-interface": true
+                }
+            ],
+            "requires": [
+                {
+                    "logical-name": "Texture"
+                },
+                {
+                    "logical-name": "Game_Object"
+                },
+                {
+                    "logical-name": "Core"
+                },
+                {
+                    "logical-name": "Sound"
+                }
+            ]
+        }
+    ]
 }

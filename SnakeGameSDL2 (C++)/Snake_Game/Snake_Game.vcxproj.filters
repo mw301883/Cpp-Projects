@@ -98,6 +98,12 @@
     <ClInclude Include="resource.h">
       <Filter>Pliki nagłówkowe</Filter>
     </ClInclude>
+    <ClInclude Include="resource1.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
+    <ClInclude Include="resource2.h">
+      <Filter>Pliki nagłówkowe</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Snake_Game.rc">
@@ -105,16 +111,7 @@
     </ResourceCompile>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="icon1.ico">
-      <Filter>Pliki zasobów</Filter>
-    </Image>
     <Image Include="Graphics\Icon.ico">
-      <Filter>Pliki zasobów</Filter>
-    </Image>
-    <Image Include="graphics\icon2.ico">
-      <Filter>Pliki zasobów</Filter>
-    </Image>
-    <Image Include="..\x64\Debug\Graphics\Icon.ico">
       <Filter>Pliki zasobów</Filter>
     </Image>
   </ItemGroup>

@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\michał\\source\\repos\\89863361-gr21-repo\\projekt\\snake_game\\snake_game\\time_counter.cpp",
+        "ProvidedModule": "",
+        "ImportedModules": [
+            "Time_Counter"
+        ],
+        "ImportedHeaderUnits": [
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\string",
+            "C:\\SDL 2\\SDL2-2.0.22\\include\\SDL.h"
+        ]
+    }
+}

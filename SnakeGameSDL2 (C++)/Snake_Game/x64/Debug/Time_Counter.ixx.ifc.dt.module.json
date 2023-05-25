@@ -5,7 +5,7 @@
         "ProvidedModule": "Time_Counter",
         "ImportedModules": [],
         "ImportedHeaderUnits": [
-            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.35.32215\\include\\string"
+            "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\include\\string"
         ]
     }
 }
