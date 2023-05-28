@@ -6,10 +6,6 @@ import <string>;
 import <SDL_ttf.h>;
 
 export class Texture {
-private:
-	SDL_Texture* ActualTexture;
-	int Width;
-	int Height;
 public:
 	Texture();
 	~Texture();
@@ -19,4 +15,8 @@ public:
 	void Render(const int& x, const int& y, SDL_Renderer* Renderer, SDL_Rect* Clip, const bool& Full_Format);
 	int GetWidth();
 	int GetHeight();
+private:
+	SDL_Texture* ActualTexture;
+	int Width;
+	int Height;
 };

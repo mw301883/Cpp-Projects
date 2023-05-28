@@ -1,73 +1,20 @@
 ﻿  Trwa skanowanie źródeł pod kątem zależności modułów...
-  Button.ixx
-  Apple.ixx
-  Interface.ixx
-  Coin.ixx
-  Core.ixx
-  Game_Object.ixx
-  External_Functions.ixx
-  main.cppm
-  Menu.ixx
-  Obstacle.ixx
-  Snake.ixx
-  Sound.ixx
-  Texture.ixx
-  std.ixx
   Time_Counter.ixx
-  std.compat.ixx
-  string
-  SDL_mixer.h
-  SDL.h
-  memory
-  stdio.h
-  vector
-  SDL_image.h
-  SDL_ttf.h
-  filesystem
-  iostream
-  fstream
-  stdexcept
-  time.h
-  random
-  iomanip
-  deque
-  tuple
   SDL_Mixer.h
-  algorithm
+  SDL_mixer.h
   Trwa kompilowanie…
-  memory
-  SDL.h
-  SDL_mixer.h
-  stdio.h
-  string
-  SDL_ttf.h
-  vector
-  SDL_image.h
-  filesystem
-  random
-  time.h
-  iostream
-  iomanip
-  fstream
-  deque
-  stdexcept
-  algorithm
-  tuple
   SDL_Mixer.h
+  SDL_mixer.h
   Time_Counter.ixx
-  std.ixx
-  Texture.ixx
-  External_Functions.ixx
-  std.compat.ixx
   Core.ixx
   Sound.ixx
   Button.ixx
   Snake.ixx
-  Menu.ixx
   Game_Object.ixx
-  Obstacle.ixx
+  Menu.ixx
   Coin.ixx
   Apple.ixx
+  Obstacle.ixx
   Interface.ixx
   main.cppm
   Apple.cpp
@@ -99,8 +46,6 @@ C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\C
 C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.cpp(142,26): warning C4838: konwersja z „const int” do „Uint8” wymaga konwersji zawężającej
 C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.cpp(142,29): warning C4838: konwersja z „const int” do „Uint8” wymaga konwersji zawężającej
 C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.cpp(142,32): warning C4838: konwersja z „const int” do „Uint8” wymaga konwersji zawężającej
-  External_Functions.cpp
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\External_Functions.cpp : warning C5057: odwołanie jednostki nagłówka do pliku „c:\sdl 2\sdl2_mixer-2.0.4\include\sdl_mixer.h” już istnieje. Jednostka nagłówka „x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc” jest ignorowana
   Interface.cpp
 C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Interface.cpp : warning C5057: odwołanie jednostki nagłówka do pliku „c:\sdl 2\sdl2_mixer-2.0.4\include\sdl_mixer.h” już istnieje. Jednostka nagłówka „x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc” jest ignorowana
 C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Interface.cpp(113,45): warning C4244: "argument": konwersja z "Uint64" do "const int", możliwa utrata danych
@@ -125,10 +70,8 @@ C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\T
   Time_Counter.cpp
 C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Time_Counter.cpp : warning C5057: odwołanie jednostki nagłówka do pliku „c:\sdl 2\sdl2_mixer-2.0.4\include\sdl_mixer.h” już istnieje. Jednostka nagłówka „x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc” jest ignorowana
   Trwa generowanie kodu
-  Previous IPDB was built with incompatible compiler, fall back to full compilation.
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Snake.cpp(199): warning C4715: "Snake::Calculate_Segment”: niewszystkie ścieżki kodu zwracają wartość
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Snake.cpp(238): warning C4715: "Snake::Set_Snake_Body_Clip”: niewszystkie ścieżki kodu zwracają wartość
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Snake.cpp(256): warning C4715: "Snake::Set_Snake_Tail_Clip”: niewszystkie ścieżki kodu zwracają wartość
-  All 986 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  0 of 986 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   Zakończono generowanie kodu
   Snake_Game.vcxproj -> C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\x64\Release\Snake_Game.exe

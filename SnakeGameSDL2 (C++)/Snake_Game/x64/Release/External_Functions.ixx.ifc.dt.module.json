@@ -1,0 +1,9 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\michał\\source\\repos\\89863361-gr21-repo\\projekt\\snake_game\\snake_game\\external_functions.ixx",
+        "ProvidedModule": "External_Functions",
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

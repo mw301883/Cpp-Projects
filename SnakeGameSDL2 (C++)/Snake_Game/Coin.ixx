@@ -18,22 +18,23 @@ export namespace COIN_ENUM {
 }
 
 export class Coin : public Game_Object {
-private:
-	Texture* Coin_Texture[COIN_ENUM::TOTAL];
-	SDL_Rect Coin_Clips[COIN_ENUM::TOTAL];
-	int PosX, PosY, AnimPosX, AnimPosY;
-	static int Anim_Int;
-	bool is_Eaten, is_Start;
-	void Set_New_Pos();
-	void Set_Anim_Pos();
-	void Get_Animation(SDL_Renderer* Renderer);
-	Sound GetCoin;
 public:
 	Coin();
 	Coin(Texture Game_Texture[SURFACES_TEXTURES_ENUM::TOTAL], SDL_Rect Game_Clips[CLIPS_ENUM::TOTAL]);
 	~Coin();
 	virtual void Render(SDL_Renderer* Renderer, const int& x = 0, const int& y = 0) override;
 	virtual void Interaction(Snake& Snake_Obj) override;
+private:
+	Texture* Coin_Texture[COIN_ENUM::TOTAL];
+	SDL_Rect Coin_Clips[COIN_ENUM::TOTAL];
+	int PosX, PosY, AnimPosX, AnimPosY;
+	static int Anim_Int;
+	bool is_Eaten, is_Start;
+	Sound GetCoin;
+private:
+	void Set_New_Pos();
+	void Set_Anim_Pos();
+	void Get_Animation(SDL_Renderer* Renderer);
 };
 
 int Coin::Anim_Int = 0;

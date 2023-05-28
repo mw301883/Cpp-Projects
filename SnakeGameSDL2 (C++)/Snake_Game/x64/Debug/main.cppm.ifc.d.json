@@ -22,12 +22,12 @@
                 "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\Menu.ixx.ifc"
             },
             {
-                "Name": "Button",
-                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\Button.ixx.ifc"
-            },
-            {
                 "Name": "Sound",
                 "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\Sound.ixx.ifc"
+            },
+            {
+                "Name": "Button",
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\Button.ixx.ifc"
             },
             {
                 "Name": "Snake",

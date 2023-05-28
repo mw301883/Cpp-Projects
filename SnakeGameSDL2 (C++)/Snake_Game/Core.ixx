@@ -9,9 +9,6 @@ import <memory>;
 import <string>;
 import Texture;
 
-/// <summary>
-/// Przestrzen nazw wszystkich sciezek plikow zewnetrznych uzytych w programie
-/// </summary>
 export namespace PATHS {
 	std::vector<std::string> PLAY_PATH{ "Graphics/Blue buttons/play blue button 300x80 hover/Play button blue 300x80 hover000001.png", "Graphics/Blue buttons/play blue button 300x80 hover/Play button blue 300x80 hover000002.png", "Graphics/Blue buttons/play blue button 300x80 hover/Play button blue 300x80 hover000003.png", "Graphics/Blue buttons/play blue button 300x80 hover/Play button blue 300x80 hover000004.png", "Graphics/Blue buttons/play blue button 300x80 hover/Play button blue 300x80 hover000005.png",
 		"Graphics/Blue buttons/play blue button 300x80 hover/Play button blue 300x80 hover000006.png","Graphics/Blue buttons/play blue button 300x80 hover/Play button blue 300x80 hover000007.png","Graphics/Blue buttons/play blue button 300x80 hover/Play button blue 300x80 hover000008.png", "Graphics/Blue buttons/play blue button 300x80 hover/Play button blue 300x80 hover000009.png","Graphics/Blue buttons/play blue button 300x80 hover/Play button blue 300x80 hover000010.png", 
@@ -152,6 +149,7 @@ protected:
 	SDL_Renderer* Renderer;
 	SDL_Event event;
 	int Width, Height;
+protected:
 	bool initialisation();
 	bool load_media();
 	Core();

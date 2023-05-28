@@ -1,11 +1,25 @@
 ﻿  Trwa skanowanie źródeł pod kątem zależności modułów...
+  Button.ixx
+  Coin.ixx
+  Menu.ixx
+  Core.ixx
+  Obstacle.ixx
+  Interface.ixx
+  Snake.ixx
+  Apple.ixx
+  Sound.ixx
+  Texture.ixx
+  Time_Counter.ixx
   SDL_mixer.h
   SDL_Mixer.h
   Trwa kompilowanie…
   SDL_mixer.h
   SDL_Mixer.h
-  Texture.cpp
+  Texture.ixx
+  Time_Counter.ixx
+  Time_Counter.cpp
   Core.ixx
+  Texture.cpp
 C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Texture.cpp(19,50): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
 C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Texture.cpp(19,50): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
 C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Texture.cpp(25,73): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
@@ -14,8 +28,8 @@ C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\T
 C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Texture.cpp(41,56): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
 C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Texture.cpp(46,78): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
 C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Texture.cpp(46,78): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
-  Sound.ixx
   Core.cpp
+  Sound.ixx
 C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.cpp(54,53): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
 C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.cpp(54,53): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
 C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.cpp(59,51): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
@@ -41,21 +55,21 @@ C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\C
   Sound.cpp
   Button.cpp
   Snake.ixx
-  Menu.ixx
   Game_Object.ixx
+  Menu.ixx
   Snake.cpp
 C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Snake.cpp(199): warning C4715: "Snake::Calculate_Segment”: niewszystkie ścieżki kodu zwracają wartość
 C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Snake.cpp(256): warning C4715: "Snake::Set_Snake_Tail_Clip”: niewszystkie ścieżki kodu zwracają wartość
 C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Snake.cpp(238): warning C4715: "Snake::Set_Snake_Body_Clip”: niewszystkie ścieżki kodu zwracają wartość
   Coin.ixx
-  Obstacle.ixx
   Apple.ixx
+  Obstacle.ixx
   Menu.cpp
-  Obstacle.cpp
-  Coin.cpp
   Apple.cpp
+  Coin.cpp
+  Obstacle.cpp
   Interface.ixx
-  Interface.cpp
   main.cppm
+  Interface.cpp
 C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Interface.cpp(113,45): warning C4244: "argument": konwersja z "Uint64" do "const int", możliwa utrata danych
   Snake_Game.vcxproj -> C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\x64\Debug\Snake_Game.exe

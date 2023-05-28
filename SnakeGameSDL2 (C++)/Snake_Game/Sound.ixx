@@ -5,6 +5,10 @@ import "SDL_Mixer.h";
 import <string>;
 
 export class Sound {
+private:
+	static bool isActive;
+	Mix_Music* Music;
+	Mix_Chunk* Chunk;
 public:
 	Sound();
 	~Sound();
@@ -15,8 +19,4 @@ public:
 	static void Turn_Off();
 	bool Load_Music(std::string& Path);
 	bool Load_Chunk(std::string& Path);
-private:
-	static bool isActive;
-	Mix_Music* Music;
-	Mix_Chunk* Chunk;
 };
