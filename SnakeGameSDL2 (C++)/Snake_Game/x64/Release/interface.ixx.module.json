@@ -5,14 +5,14 @@
         {
             "primary-output": "x64\\Release\\Interface.ixx.obj",
             "outputs": [
-                "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\vc143.pdb",
+                "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\vc143.pdb",
                 "x64\\Release\\",
-                "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\Interface.ixx.ifc"
+                "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\Interface.ixx.ifc"
             ],
             "provides": [
                 {
                     "logical-name": "Interface",
-                    "source-path": "c:\\users\\michał\\source\\repos\\89863361-gr21-repo\\projekt\\snake_game\\snake_game\\interface.ixx",
+                    "source-path": "c:\\users\\michał\\onedrive\\pulpit\\projects repo\\snakegamesdl2 (c++)\\snake_game\\interface.ixx",
                     "is-interface": true
                 }
             ],

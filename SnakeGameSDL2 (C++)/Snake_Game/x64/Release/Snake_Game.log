@@ -1,77 +1,100 @@
 ﻿  Trwa skanowanie źródeł pod kątem zależności modułów...
-  Time_Counter.ixx
-  SDL_Mixer.h
-  SDL_mixer.h
-  Trwa kompilowanie…
-  SDL_Mixer.h
-  SDL_mixer.h
-  Time_Counter.ixx
+  Game_Object.ixx
   Core.ixx
+  Button.ixx
+  main.cppm
+  External_Functions.ixx
+  Interface.ixx
+  Coin.ixx
+  Apple.ixx
+  Snake.ixx
+  Sound.ixx
+  Texture.ixx
+  Obstacle.ixx
+  Menu.ixx
+  std.ixx
+  Time_Counter.ixx
+  std.compat.ixx
+  SDL_mixer.h
+  SDL_Mixer.h
+  Trwa kompilowanie…
+  External_Functions.ixx
+  Time_Counter.ixx
+  std.ixx
+  SDL_Mixer.h
+  SDL_mixer.h
+  Texture.ixx
+  Core.ixx
+  std.compat.ixx
   Sound.ixx
   Button.ixx
   Snake.ixx
-  Game_Object.ixx
   Menu.ixx
+  Game_Object.ixx
   Coin.ixx
   Apple.ixx
   Obstacle.ixx
   Interface.ixx
   main.cppm
   Apple.cpp
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Apple.cpp : warning C5057: odwołanie jednostki nagłówka do pliku „c:\sdl 2\sdl2_mixer-2.0.4\include\sdl_mixer.h” już istnieje. Jednostka nagłówka „x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc” jest ignorowana
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Apple.cpp : warning C5057: odwołanie jednostki nagłówka do pliku „c:\sdl 2\sdl2_mixer-2.0.4\include\sdl_mixer.h” już istnieje. Jednostka nagłówka „x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc” jest ignorowana
   Button.cpp
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Button.cpp : warning C5057: odwołanie jednostki nagłówka do pliku „c:\sdl 2\sdl2_mixer-2.0.4\include\sdl_mixer.h” już istnieje. Jednostka nagłówka „x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc” jest ignorowana
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Button.cpp : warning C5057: odwołanie jednostki nagłówka do pliku „c:\sdl 2\sdl2_mixer-2.0.4\include\sdl_mixer.h” już istnieje. Jednostka nagłówka „x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc” jest ignorowana
   Coin.cpp
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Coin.cpp : warning C5057: odwołanie jednostki nagłówka do pliku „c:\sdl 2\sdl2_mixer-2.0.4\include\sdl_mixer.h” już istnieje. Jednostka nagłówka „x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc” jest ignorowana
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Coin.cpp : warning C5057: odwołanie jednostki nagłówka do pliku „c:\sdl 2\sdl2_mixer-2.0.4\include\sdl_mixer.h” już istnieje. Jednostka nagłówka „x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc” jest ignorowana
   Core.cpp
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.cpp : warning C5057: odwołanie jednostki nagłówka do pliku „c:\sdl 2\sdl2_mixer-2.0.4\include\sdl_mixer.h” już istnieje. Jednostka nagłówka „x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc” jest ignorowana
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.cpp(54,53): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.cpp(54,53): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.cpp(59,51): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.cpp(59,51): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.cpp(65,54): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.cpp(65,54): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.cpp(72,59): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.cpp(72,59): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.cpp(75,57): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.cpp(75,57): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.cpp(81,59): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.cpp(81,59): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.cpp(121,47): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.cpp(121,47): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.cpp(126,51): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.cpp(126,51): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.cpp(138,50): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.cpp(138,50): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.cpp(142,26): warning C4838: konwersja z „const int” do „Uint8” wymaga konwersji zawężającej
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.cpp(142,29): warning C4838: konwersja z „const int” do „Uint8” wymaga konwersji zawężającej
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.cpp(142,32): warning C4838: konwersja z „const int” do „Uint8” wymaga konwersji zawężającej
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Core.cpp : warning C5057: odwołanie jednostki nagłówka do pliku „c:\sdl 2\sdl2_mixer-2.0.4\include\sdl_mixer.h” już istnieje. Jednostka nagłówka „x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc” jest ignorowana
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Core.cpp(54,53): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Core.cpp(54,53): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Core.cpp(59,51): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Core.cpp(59,51): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Core.cpp(65,54): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Core.cpp(65,54): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Core.cpp(72,59): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Core.cpp(72,59): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Core.cpp(75,57): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Core.cpp(75,57): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Core.cpp(81,59): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Core.cpp(81,59): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Core.cpp(121,47): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Core.cpp(121,47): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Core.cpp(126,51): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Core.cpp(126,51): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Core.cpp(138,50): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Core.cpp(138,50): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Core.cpp(142,26): warning C4838: konwersja z „const int” do „Uint8” wymaga konwersji zawężającej
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Core.cpp(142,29): warning C4838: konwersja z „const int” do „Uint8” wymaga konwersji zawężającej
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Core.cpp(142,32): warning C4838: konwersja z „const int” do „Uint8” wymaga konwersji zawężającej
+  External_Functions.cpp
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\External_Functions.cpp : warning C5057: odwołanie jednostki nagłówka do pliku „c:\sdl 2\sdl2_mixer-2.0.4\include\sdl_mixer.h” już istnieje. Jednostka nagłówka „x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc” jest ignorowana
   Interface.cpp
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Interface.cpp : warning C5057: odwołanie jednostki nagłówka do pliku „c:\sdl 2\sdl2_mixer-2.0.4\include\sdl_mixer.h” już istnieje. Jednostka nagłówka „x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc” jest ignorowana
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Interface.cpp(113,45): warning C4244: "argument": konwersja z "Uint64" do "const int", możliwa utrata danych
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Interface.cpp : warning C5057: odwołanie jednostki nagłówka do pliku „c:\sdl 2\sdl2_mixer-2.0.4\include\sdl_mixer.h” już istnieje. Jednostka nagłówka „x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc” jest ignorowana
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Interface.cpp(113,45): warning C4244: "argument": konwersja z "Uint64" do "const int", możliwa utrata danych
   Menu.cpp
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Menu.cpp : warning C5057: odwołanie jednostki nagłówka do pliku „c:\sdl 2\sdl2_mixer-2.0.4\include\sdl_mixer.h” już istnieje. Jednostka nagłówka „x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc” jest ignorowana
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Menu.cpp : warning C5057: odwołanie jednostki nagłówka do pliku „c:\sdl 2\sdl2_mixer-2.0.4\include\sdl_mixer.h” już istnieje. Jednostka nagłówka „x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc” jest ignorowana
   Obstacle.cpp
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Obstacle.cpp : warning C5057: odwołanie jednostki nagłówka do pliku „c:\sdl 2\sdl2_mixer-2.0.4\include\sdl_mixer.h” już istnieje. Jednostka nagłówka „x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc” jest ignorowana
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Obstacle.cpp : warning C5057: odwołanie jednostki nagłówka do pliku „c:\sdl 2\sdl2_mixer-2.0.4\include\sdl_mixer.h” już istnieje. Jednostka nagłówka „x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc” jest ignorowana
   Snake.cpp
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Snake.cpp : warning C5057: odwołanie jednostki nagłówka do pliku „c:\sdl 2\sdl2_mixer-2.0.4\include\sdl_mixer.h” już istnieje. Jednostka nagłówka „x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc” jest ignorowana
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Snake.cpp : warning C5057: odwołanie jednostki nagłówka do pliku „c:\sdl 2\sdl2_mixer-2.0.4\include\sdl_mixer.h” już istnieje. Jednostka nagłówka „x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc” jest ignorowana
   Sound.cpp
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Sound.cpp : warning C5057: odwołanie jednostki nagłówka do pliku „c:\sdl 2\sdl2_mixer-2.0.4\include\sdl_mixer.h” już istnieje. Jednostka nagłówka „x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc” jest ignorowana
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Sound.cpp : warning C5057: odwołanie jednostki nagłówka do pliku „c:\sdl 2\sdl2_mixer-2.0.4\include\sdl_mixer.h” już istnieje. Jednostka nagłówka „x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc” jest ignorowana
   Texture.cpp
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Texture.cpp : warning C5057: odwołanie jednostki nagłówka do pliku „c:\sdl 2\sdl2_mixer-2.0.4\include\sdl_mixer.h” już istnieje. Jednostka nagłówka „x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc” jest ignorowana
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Texture.cpp(19,50): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Texture.cpp(19,50): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Texture.cpp(25,73): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Texture.cpp(25,73): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Texture.cpp(41,56): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Texture.cpp(41,56): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Texture.cpp(46,78): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Texture.cpp(46,78): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Texture.cpp : warning C5057: odwołanie jednostki nagłówka do pliku „c:\sdl 2\sdl2_mixer-2.0.4\include\sdl_mixer.h” już istnieje. Jednostka nagłówka „x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc” jest ignorowana
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Texture.cpp(19,50): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Texture.cpp(19,50): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Texture.cpp(25,73): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Texture.cpp(25,73): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Texture.cpp(41,56): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Texture.cpp(41,56): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Texture.cpp(46,78): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Texture.cpp(46,78): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
   Time_Counter.cpp
-C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Time_Counter.cpp : warning C5057: odwołanie jednostki nagłówka do pliku „c:\sdl 2\sdl2_mixer-2.0.4\include\sdl_mixer.h” już istnieje. Jednostka nagłówka „x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc” jest ignorowana
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Time_Counter.cpp : warning C5057: odwołanie jednostki nagłówka do pliku „c:\sdl 2\sdl2_mixer-2.0.4\include\sdl_mixer.h” już istnieje. Jednostka nagłówka „x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc” jest ignorowana
   Trwa generowanie kodu
-  0 of 986 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Snake.cpp(238): warning C4715: "Snake::Set_Snake_Body_Clip”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Snake.cpp(256): warning C4715: "Snake::Set_Snake_Tail_Clip”: niewszystkie ścieżki kodu zwracają wartość
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Snake.cpp(199): warning C4715: "Snake::Calculate_Segment”: niewszystkie ścieżki kodu zwracają wartość
+  All 986 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Zakończono generowanie kodu
-  Snake_Game.vcxproj -> C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\x64\Release\Snake_Game.exe
+  Snake_Game.vcxproj -> C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\x64\Release\Snake_Game.exe
