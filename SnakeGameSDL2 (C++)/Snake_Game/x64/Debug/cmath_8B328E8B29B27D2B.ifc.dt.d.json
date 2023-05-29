@@ -21,6 +21,19 @@
             "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.36.32532\\include\\intrin0.inl.h"
         ],
         "ImportedModules": [],
-        "ImportedHeaderUnits": []
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.36.32532\\include\\cstdlib",
+                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Debug\\cstdlib_770D951805ECFD65.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.36.32532\\include\\xtr1common",
+                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Debug\\xtr1common_A852B1F1508AC6E8.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.36.32532\\include\\xutility",
+                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Debug\\xutility_B4CAF4D1BB866458.ifc.dt"
+            }
+        ]
     }
 }
