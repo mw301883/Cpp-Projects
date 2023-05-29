@@ -5,7 +5,7 @@
         {
             "primary-output": "x64\\Release\\string_EP2912U0Y5DNK4HD.obj",
             "outputs": [
-                "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\vc143.pdb",
+                "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\vc143.pdb",
                 "x64\\Release\\string_EP2912U0Y5DNK4HD.module.json",
                 "x64\\Release\\string_EP2912U0Y5DNK4HD.ifc"
             ],

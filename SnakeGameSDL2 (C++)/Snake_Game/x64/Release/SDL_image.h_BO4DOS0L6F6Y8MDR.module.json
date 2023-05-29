@@ -5,7 +5,7 @@
         {
             "primary-output": "x64\\Release\\SDL_image.h_BO4DOS0L6F6Y8MDR.obj",
             "outputs": [
-                "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\vc143.pdb",
+                "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\vc143.pdb",
                 "x64\\Release\\SDL_image.h_BO4DOS0L6F6Y8MDR.module.json",
                 "x64\\Release\\SDL_image.h_BO4DOS0L6F6Y8MDR.ifc"
             ],
