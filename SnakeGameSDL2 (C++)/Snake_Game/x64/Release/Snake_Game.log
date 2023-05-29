@@ -1,38 +1,17 @@
 ﻿  Trwa skanowanie źródeł pod kątem zależności modułów...
-  External_Functions.ixx
-  Coin.ixx
-  Apple.ixx
-  main.cppm
-  Interface.ixx
-  Core.ixx
-  Button.ixx
-  Game_Object.ixx
-  Sound.ixx
-  Snake.ixx
-  Obstacle.ixx
-  Time_Counter.ixx
-  std.ixx
-  Texture.ixx
-  std.compat.ixx
-  Menu.ixx
   SDL_Mixer.h
   SDL_mixer.h
   Trwa kompilowanie…
   SDL_mixer.h
-  External_Functions.ixx
-  std.ixx
-  Time_Counter.ixx
   SDL_Mixer.h
-  Texture.ixx
-  std.compat.ixx
   Core.ixx
   Sound.ixx
   Button.ixx
   Snake.ixx
   Menu.ixx
   Game_Object.ixx
-  Apple.ixx
   Coin.ixx
+  Apple.ixx
   Obstacle.ixx
   Interface.ixx
   main.cppm
@@ -65,8 +44,6 @@ C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Co
 C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Core.cpp(142,26): warning C4838: konwersja z „const int” do „Uint8” wymaga konwersji zawężającej
 C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Core.cpp(142,29): warning C4838: konwersja z „const int” do „Uint8” wymaga konwersji zawężającej
 C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Core.cpp(142,32): warning C4838: konwersja z „const int” do „Uint8” wymaga konwersji zawężającej
-  External_Functions.cpp
-C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\External_Functions.cpp : warning C5057: odwołanie jednostki nagłówka do pliku „c:\sdl 2\sdl2_mixer-2.0.4\include\sdl_mixer.h” już istnieje. Jednostka nagłówka „x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc” jest ignorowana
   Interface.cpp
 C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Interface.cpp : warning C5057: odwołanie jednostki nagłówka do pliku „c:\sdl 2\sdl2_mixer-2.0.4\include\sdl_mixer.h” już istnieje. Jednostka nagłówka „x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc” jest ignorowana
 C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Interface.cpp(113,45): warning C4244: "argument": konwersja z "Uint64" do "const int", możliwa utrata danych
@@ -88,13 +65,11 @@ C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Te
 C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Texture.cpp(41,56): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
 C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Texture.cpp(46,78): warning C4474: „printf”: przekazano za dużo argumentów dla ciągu formatowania
 C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Texture.cpp(46,78): message : symbole zastępcze i ich parametry oczekują 0 argumentów ze zmienną liczbą argumentów, ale podano następującą liczbę zmiennych argumentów: 1
-  Time_Counter.cpp
-C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Time_Counter.cpp : warning C5057: odwołanie jednostki nagłówka do pliku „c:\sdl 2\sdl2_mixer-2.0.4\include\sdl_mixer.h” już istnieje. Jednostka nagłówka „x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc” jest ignorowana
   Trwa generowanie kodu
   Previous IPDB and IOBJ mismatch, fall back to full compilation.
+C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Snake.cpp(256): warning C4715: "Snake::Set_Snake_Tail_Clip”: niewszystkie ścieżki kodu zwracają wartość
 C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Snake.cpp(199): warning C4715: "Snake::Calculate_Segment”: niewszystkie ścieżki kodu zwracają wartość
 C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Snake.cpp(238): warning C4715: "Snake::Set_Snake_Body_Clip”: niewszystkie ścieżki kodu zwracają wartość
-C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Snake.cpp(256): warning C4715: "Snake::Set_Snake_Tail_Clip”: niewszystkie ścieżki kodu zwracają wartość
   All 986 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Zakończono generowanie kodu
   Snake_Game.vcxproj -> C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\x64\Release\Snake_Game.exe

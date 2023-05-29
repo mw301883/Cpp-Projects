@@ -1,71 +1,71 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\michał\\source\\repos\\89863361-gr21-repo\\projekt\\snake_game\\snake_game\\snake.ixx",
+        "Source": "c:\\users\\michał\\onedrive\\pulpit\\projects repo\\snakegamesdl2 (c++)\\snake_game\\snake.ixx",
         "ProvidedModule": "Snake",
         "Includes": [],
         "ImportedModules": [
             {
                 "Name": "Core",
-                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\Core.ixx.ifc.dt"
+                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\Core.ixx.ifc.dt"
             },
             {
                 "Name": "Texture",
-                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\Texture.ixx.ifc.dt"
+                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\Texture.ixx.ifc.dt"
             },
             {
                 "Name": "Time_Counter",
-                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\Time_Counter.ixx.ifc.dt"
+                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\Time_Counter.ixx.ifc.dt"
             },
             {
                 "Name": "Button",
-                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\Button.ixx.ifc.dt"
+                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\Button.ixx.ifc.dt"
             },
             {
                 "Name": "Sound",
-                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\Sound.ixx.ifc.dt"
+                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\Sound.ixx.ifc.dt"
             },
             {
                 "Name": "External_Functions",
-                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\External_Functions.ixx.ifc.dt"
+                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\External_Functions.ixx.ifc.dt"
             }
         ],
         "ImportedHeaderUnits": [
             {
                 "Header": "c:\\sdl 2\\sdl2-2.0.22\\include\\sdl.h",
-                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\SDL.h_B24F20AEB7BBF9D6.ifc.dt"
+                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\SDL.h_B24F20AEB7BBF9D6.ifc.dt"
             },
             {
                 "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.36.32532\\include\\deque",
-                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\deque_B9A5086803EB0844.ifc.dt"
+                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\deque_B9A5086803EB0844.ifc.dt"
             },
             {
                 "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.36.32532\\include\\tuple",
-                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\tuple_F7C25789C3DC47E.ifc.dt"
+                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\tuple_F7C25789C3DC47E.ifc.dt"
             },
             {
                 "Header": "c:\\sdl 2\\sdl2_ttf-2.0.18\\include\\sdl_ttf.h",
-                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\SDL_ttf.h_2525A30A907D3321.ifc.dt"
+                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\SDL_ttf.h_2525A30A907D3321.ifc.dt"
             },
             {
                 "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.36.32532\\include\\algorithm",
-                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\algorithm_353C76C87E3E7065.ifc.dt"
+                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\algorithm_353C76C87E3E7065.ifc.dt"
             },
             {
                 "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.36.32532\\include\\fstream",
-                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\fstream_EF1D713F05FF92.ifc.dt"
+                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\fstream_EF1D713F05FF92.ifc.dt"
             },
             {
                 "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.36.32532\\include\\string",
-                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\string_C577D08F695D2F51.ifc.dt"
+                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\string_C577D08F695D2F51.ifc.dt"
             },
             {
                 "Header": "c:\\sdl 2\\sdl2_image-2.0.5\\include\\sdl_image.h",
-                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\SDL_image.h_74FEEFEF9CE4B1C7.ifc.dt"
+                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\SDL_image.h_74FEEFEF9CE4B1C7.ifc.dt"
             },
             {
                 "Header": "c:\\sdl 2\\sdl2_mixer-2.0.4\\include\\sdl_mixer.h",
-                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\SDL_mixer.h_D95586BBB65CA1F0.ifc.dt"
+                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\SDL_mixer.h_D95586BBB65CA1F0.ifc.dt"
             }
         ]
     }
