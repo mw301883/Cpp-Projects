@@ -5,7 +5,7 @@
         {
             "primary-output": "x64\\Debug\\Time_Counter.obj",
             "outputs": [
-                "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Debug\\vc143.pdb",
+                "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\vc143.pdb",
                 "x64\\Debug\\"
             ],
             "requires": [

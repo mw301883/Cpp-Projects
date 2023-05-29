@@ -1,23 +1,23 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\michał\\onedrive\\pulpit\\projects repo\\snakegamesdl2 (c++)\\snake_game\\sound.ixx",
+        "Source": "c:\\users\\michał\\source\\repos\\89863361-gr21-repo\\projekt\\snake_game\\snake_game\\sound.ixx",
         "ProvidedModule": "Sound",
         "Includes": [],
         "ImportedModules": [
             {
                 "Name": "Core",
-                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\Core.ixx.ifc"
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\Core.ixx.ifc"
             }
         ],
         "ImportedHeaderUnits": [
             {
                 "Header": "c:\\sdl 2\\sdl2_mixer-2.0.4\\include\\sdl_mixer.h",
-                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc"
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\SDL_Mixer.h_0F9938MWJY3B4E2Y.ifc"
             },
             {
                 "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.36.32532\\include\\string",
-                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\string_EP2912U0Y5DNK4HD.ifc"
+                "BMI": "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Release\\string_EP2912U0Y5DNK4HD.ifc"
             }
         ]
     }

@@ -1,19 +1,10 @@
 {
     "Version": "1.2",
     "Data": {
-        "Source": "c:\\users\\michał\\onedrive\\pulpit\\projects repo\\snakegamesdl2 (c++)\\snake_game\\button.ixx",
+        "Source": "c:\\users\\michał\\source\\repos\\89863361-gr21-repo\\projekt\\snake_game\\snake_game\\button.ixx",
         "ProvidedModule": "Button",
         "Includes": [],
         "ImportedModules": [],
-        "ImportedHeaderUnits": [
-            {
-                "Header": "c:\\sdl 2\\sdl2-2.0.22\\include\\sdl.h",
-                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Debug\\SDL.h_B24F20AEB7BBF9D6.ifc.dt"
-            },
-            {
-                "Header": "c:\\program files (x86)\\windows kits\\10\\include\\10.0.22000.0\\ucrt\\stdio.h",
-                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Debug\\stdio.h_46BB03E3AA14EEFD.ifc.dt"
-            }
-        ]
+        "ImportedHeaderUnits": []
     }
 }

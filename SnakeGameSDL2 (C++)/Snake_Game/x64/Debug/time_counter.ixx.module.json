@@ -5,14 +5,14 @@
         {
             "primary-output": "x64\\Debug\\Time_Counter.ixx.obj",
             "outputs": [
-                "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Debug\\vc143.pdb",
+                "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\vc143.pdb",
                 "x64\\Debug\\",
-                "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Debug\\Time_Counter.ixx.ifc"
+                "C:\\Users\\Michał\\source\\repos\\89863361-gr21-repo\\Projekt\\Snake_Game\\Snake_Game\\x64\\Debug\\Time_Counter.ixx.ifc"
             ],
             "provides": [
                 {
                     "logical-name": "Time_Counter",
-                    "source-path": "c:\\users\\michał\\onedrive\\pulpit\\projects repo\\snakegamesdl2 (c++)\\snake_game\\time_counter.ixx",
+                    "source-path": "c:\\users\\michał\\source\\repos\\89863361-gr21-repo\\projekt\\snake_game\\snake_game\\time_counter.ixx",
                     "is-interface": true
                 }
             ],

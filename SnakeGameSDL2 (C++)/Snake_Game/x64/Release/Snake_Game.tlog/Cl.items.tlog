@@ -1,47 +1,47 @@
-C:\SDL 2\SDL2-2.0.22\include\SDL.h;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\SDL.h_W8PW3QNFBC4I4WCN.obj
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\stdio.h;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\stdio.h_Y9HYQ639RU8J8A6J.obj
-C:\SDL 2\SDL2_mixer-2.0.4\include\SDL_mixer.h;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\SDL_mixer.h_UYLWNPY8XLSF5TGP.obj
-C:\SDL 2\SDL2_ttf-2.0.18\include\SDL_ttf.h;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\SDL_ttf.h_DOKDNH8YH2VBC7C4.obj
-C:\SDL 2\SDL2_image-2.0.5\include\SDL_image.h;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\SDL_image.h_BO4DOS0L6F6Y8MDR.obj
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vector;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\vector_29FZ3CAW6O70K6KJ.obj
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\memory;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\memory_RTQ8SCXB2V46UMVW.obj
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\string;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\string_EP2912U0Y5DNK4HD.obj
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\random;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\random_0M85T45ZL542F4SV.obj
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\filesystem;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\filesystem_R381KP4NLOPF6OQE.obj
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\iomanip;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\iomanip_83TSCUD89HKMJSP6.obj
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\fstream;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\fstream_MIZRURLF7AN46WNS.obj
-C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\time.h;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\time.h_MDZF79UTVOWASH31.obj
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\iostream;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\iostream_BRCOWWCJDGX0917G.obj
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\stdexcept;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\stdexcept_VD4THS8GMB73VC49.obj
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\deque;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\deque_DOLL23QTGTBLK4HE.obj
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\tuple;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\tuple_PTQLU28YDS46408P.obj
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\algorithm;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\algorithm_CWTJMUUZC49H89KX.obj
-C:\SDL 2\SDL2_mixer-2.0.4\include\SDL_Mixer.h;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.obj
-C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Apple.cpp;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\Apple.obj
-C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Apple.ixx;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\Apple.ixx.obj
-C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Button.cpp;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\Button.obj
-C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Button.ixx;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\Button.ixx.obj
-C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Coin.cpp;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\Coin.obj
-C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Coin.ixx;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\Coin.ixx.obj
-C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Core.cpp;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\Core.obj
-C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Core.ixx;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\Core.ixx.obj
-C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\External_Functions.cpp;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\External_Functions.obj
-C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\External_Functions.ixx;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\External_Functions.ixx.obj
-C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Game_Object.ixx;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\Game_Object.ixx.obj
-C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Interface.cpp;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\Interface.obj
-C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Interface.ixx;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\Interface.ixx.obj
-C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\main.cppm;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\main.cppm.obj
-C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Menu.cpp;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\Menu.obj
-C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Menu.ixx;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\Menu.ixx.obj
-C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Obstacle.cpp;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\Obstacle.obj
-C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Obstacle.ixx;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\Obstacle.ixx.obj
-C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Snake.cpp;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\Snake.obj
-C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Snake.ixx;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\Snake.ixx.obj
-C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Sound.cpp;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\Sound.obj
-C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Sound.ixx;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\Sound.ixx.obj
-C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Texture.cpp;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\Texture.obj
-C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Texture.ixx;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\Texture.ixx.obj
-C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Time_Counter.cpp;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\Time_Counter.obj
-C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\Time_Counter.ixx;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\Time_Counter.ixx.obj
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\modules\std.ixx;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\std.ixx.obj
-C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\modules\std.compat.ixx;C:\Users\Michał\OneDrive\Pulpit\Projects Repo\SnakeGameSDL2 (C++)\Snake_Game\x64\Release\std.compat.ixx.obj
+C:\SDL 2\SDL2-2.0.22\include\SDL.h;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\SDL.h_W8PW3QNFBC4I4WCN.obj
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\stdio.h;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\stdio.h_Y9HYQ639RU8J8A6J.obj
+C:\SDL 2\SDL2_mixer-2.0.4\include\SDL_mixer.h;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\SDL_mixer.h_UYLWNPY8XLSF5TGP.obj
+C:\SDL 2\SDL2_ttf-2.0.18\include\SDL_ttf.h;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\SDL_ttf.h_DOKDNH8YH2VBC7C4.obj
+C:\SDL 2\SDL2_image-2.0.5\include\SDL_image.h;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\SDL_image.h_BO4DOS0L6F6Y8MDR.obj
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\vector;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\vector_29FZ3CAW6O70K6KJ.obj
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\memory;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\memory_RTQ8SCXB2V46UMVW.obj
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\string;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\string_EP2912U0Y5DNK4HD.obj
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\random;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\random_0M85T45ZL542F4SV.obj
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\filesystem;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\filesystem_R381KP4NLOPF6OQE.obj
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\iomanip;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\iomanip_83TSCUD89HKMJSP6.obj
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\fstream;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\fstream_MIZRURLF7AN46WNS.obj
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\ucrt\time.h;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\time.h_MDZF79UTVOWASH31.obj
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\iostream;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\iostream_BRCOWWCJDGX0917G.obj
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\stdexcept;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\stdexcept_VD4THS8GMB73VC49.obj
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\deque;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\deque_DOLL23QTGTBLK4HE.obj
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\tuple;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\tuple_PTQLU28YDS46408P.obj
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\include\algorithm;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\algorithm_CWTJMUUZC49H89KX.obj
+C:\SDL 2\SDL2_mixer-2.0.4\include\SDL_Mixer.h;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\SDL_Mixer.h_0F9938MWJY3B4E2Y.obj
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Apple.cpp;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\Apple.obj
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Apple.ixx;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\Apple.ixx.obj
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Button.cpp;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\Button.obj
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Button.ixx;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\Button.ixx.obj
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Coin.cpp;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\Coin.obj
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Coin.ixx;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\Coin.ixx.obj
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.cpp;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\Core.obj
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Core.ixx;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\Core.ixx.obj
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\External_Functions.cpp;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\External_Functions.obj
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\External_Functions.ixx;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\External_Functions.ixx.obj
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Game_Object.ixx;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\Game_Object.ixx.obj
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Interface.cpp;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\Interface.obj
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Interface.ixx;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\Interface.ixx.obj
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\main.cppm;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\main.cppm.obj
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Menu.cpp;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\Menu.obj
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Menu.ixx;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\Menu.ixx.obj
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Obstacle.cpp;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\Obstacle.obj
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Obstacle.ixx;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\Obstacle.ixx.obj
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Snake.cpp;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\Snake.obj
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Snake.ixx;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\Snake.ixx.obj
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Sound.cpp;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\Sound.obj
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Sound.ixx;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\Sound.ixx.obj
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Texture.cpp;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\Texture.obj
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Texture.ixx;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\Texture.ixx.obj
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Time_Counter.cpp;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\Time_Counter.obj
+C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\Time_Counter.ixx;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\Time_Counter.ixx.obj
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\modules\std.ixx;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\std.ixx.obj
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\modules\std.compat.ixx;C:\Users\Michał\source\repos\89863361-gr21-repo\Projekt\Snake_Game\Snake_Game\x64\Release\std.compat.ixx.obj
