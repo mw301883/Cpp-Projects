@@ -35,22 +35,6 @@
             {
                 "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.36.32532\\include\\xstddef",
                 "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Debug\\xstddef_8B099CFF6519B990.ifc.dt"
-            },
-            {
-                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.36.32532\\include\\initializer_list",
-                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Debug\\initializer_list_AEA35C9B40171C4D.ifc.dt"
-            },
-            {
-                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.36.32532\\include\\cstddef",
-                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Debug\\cstddef_32A95917DF723F3D.ifc.dt"
-            },
-            {
-                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.36.32532\\include\\xtr1common",
-                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Debug\\xtr1common_A852B1F1508AC6E8.ifc.dt"
-            },
-            {
-                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.36.32532\\include\\cstdlib",
-                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Debug\\cstdlib_770D951805ECFD65.ifc.dt"
             }
         ]
     }
