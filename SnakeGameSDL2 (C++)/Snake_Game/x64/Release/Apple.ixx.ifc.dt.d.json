@@ -4,7 +4,41 @@
         "Source": "c:\\users\\michał\\onedrive\\pulpit\\projects repo\\snakegamesdl2 (c++)\\snake_game\\apple.ixx",
         "ProvidedModule": "Apple",
         "Includes": [],
-        "ImportedModules": [],
-        "ImportedHeaderUnits": []
+        "ImportedModules": [
+            {
+                "Name": "Texture",
+                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\Texture.ixx.ifc.dt"
+            },
+            {
+                "Name": "Core",
+                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\Core.ixx.ifc.dt"
+            },
+            {
+                "Name": "Sound",
+                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\Sound.ixx.ifc.dt"
+            }
+        ],
+        "ImportedHeaderUnits": [
+            {
+                "Header": "c:\\sdl 2\\sdl2-2.0.22\\include\\sdl.h",
+                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\SDL.h_B24F20AEB7BBF9D6.ifc.dt"
+            },
+            {
+                "Header": "c:\\sdl 2\\sdl2_ttf-2.0.18\\include\\sdl_ttf.h",
+                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\SDL_ttf.h_2525A30A907D3321.ifc.dt"
+            },
+            {
+                "Header": "c:\\program files\\microsoft visual studio\\2022\\community\\vc\\tools\\msvc\\14.36.32532\\include\\string",
+                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\string_C577D08F695D2F51.ifc.dt"
+            },
+            {
+                "Header": "c:\\sdl 2\\sdl2_image-2.0.5\\include\\sdl_image.h",
+                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\SDL_image.h_74FEEFEF9CE4B1C7.ifc.dt"
+            },
+            {
+                "Header": "c:\\sdl 2\\sdl2_mixer-2.0.4\\include\\sdl_mixer.h",
+                "BMI": "C:\\Users\\Michał\\OneDrive\\Pulpit\\Projects Repo\\SnakeGameSDL2 (C++)\\Snake_Game\\x64\\Release\\SDL_mixer.h_D95586BBB65CA1F0.ifc.dt"
+            }
+        ]
     }
 }
