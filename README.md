@@ -8,5 +8,5 @@ In this repository I put my two projects. One of them is my own version of Flapp
 ## 🚀 About Me
 Hi, my name is Michał  Wieczorek I'm a student at Silesian Univeristy of Technology in Poland. I am studing Computer Science and currently looking for first employment/apprenticeship.
 
-At this moment I am working on another SDL2 game - my version of Snake and learning Java in free time.
+At this moment I am working on Restaurant Web Service which is written in Java with Spring Boot framework.
 
