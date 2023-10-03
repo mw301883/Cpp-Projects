@@ -1,7 +1,7 @@
 
 # MyProjects Repository
 
-In this repository I put my two projects. One of them is my own version of FlappyBird Game and second one is Cinema Service Simulator. Both projects were written in C++ and have their own README files with description if you want to see more.
+In this repository I put my C++ projects. Projects were written in C++ and have their own README files with description if you want to see more.
 
 
 
